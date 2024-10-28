@@ -1,4 +1,4 @@
-# Token_ClassificationBERT
+# Token ClassificationBERT
 
 In this project I built an NER(Named Entity Recognition ) system using BERT for token classification. Preprocessed data with Pandas and split datasets with Scikit-learn. Trained and fine-tuned the model with Hugging Face Transformers, achieving high accuracy. Evaluated performance using precision, recall, and F1-score. Deployed the model for real-time use and managed it with Hugging Face Hub.
 
